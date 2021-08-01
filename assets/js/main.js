@@ -25,8 +25,8 @@ window.onload = () => {
                 
             }
             else {
-                htmlphoto.src = "/assets/img/1.png";
-                htmlphoto1.src = "/assets/img/1.png";
+                htmlphoto.src = "assets/img/1.png";
+                htmlphoto1.src = "assets/img/1.png";
                 //log the data;
             }
         })
